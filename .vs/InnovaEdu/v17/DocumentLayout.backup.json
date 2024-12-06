@@ -1,57 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\",
+  "WorkspaceRootPath": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\colegioweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\colegioweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{112C1B9B-A893-4175-999C-211249492F6C}|ColegioEntidades\\ColegioEntidades.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioentidades\\colegioentidades.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{112C1B9B-A893-4175-999C-211249492F6C}|ColegioEntidades\\ColegioEntidades.csproj|solutionrelative:colegioentidades\\colegioentidades.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\wwwroot\\views\\curso\\curso.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\wwwroot\\views\\curso\\curso.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegiodata\\colegiodata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|solutionrelative:colegiodata\\colegiodata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\wwwroot\\views\\docentehorario\\docentehorario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\wwwroot\\views\\docentehorario\\docentehorario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\wwwroot\\views\\docente\\docente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\wwwroot\\views\\docente\\docente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\wwwroot\\views\\docente\\docente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\wwwroot\\views\\dashboard\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\wwwroot\\views\\curso\\curso.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\wwwroot\\views\\curso\\curso.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\wwwroot\\views\\docentehorario\\docentehorario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\wwwroot\\views\\docentehorario\\docentehorario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\wwwroot\\views\\dashboard\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\wwwroot\\views\\dashboard\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\wwwroot\\views\\usuario\\usuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\wwwroot\\views\\usuario\\usuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\wwwroot\\views\\usuario\\usuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegiodata\\contrato\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegiodata\\contrato\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|solutionrelative:colegiodata\\contrato\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegioweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu_v01\\innovaedu\\colegiodata\\implementacion\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegiodata\\implementacion\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|solutionrelative:colegiodata\\implementacion\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -67,127 +83,168 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
-              "RelativeDocumentMoniker": "ColegioWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
-              "RelativeToolTip": "ColegioWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T23:14:05.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ColegioWeb\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ColegioWeb\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T23:13:57.444Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "ColegioWeb\\appsettings.json",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\appsettings.json",
+              "RelativeToolTip": "ColegioWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T14:50:47.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ColegioWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ColegioWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T23:11:16.094Z",
+              "Title": "ColegioWeb",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\ColegioWeb.csproj",
+              "RelativeDocumentMoniker": "ColegioWeb\\ColegioWeb.csproj",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\ColegioWeb.csproj",
+              "RelativeToolTip": "ColegioWeb\\ColegioWeb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T12:12:21.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DocenteHorario.js",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\DocenteHorario\\DocenteHorario.js",
-              "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\Views\\DocenteHorario\\DocenteHorario.js",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\DocenteHorario\\DocenteHorario.js",
-              "RelativeToolTip": "ColegioWeb\\wwwroot\\Views\\DocenteHorario\\DocenteHorario.js",
-              "ViewState": "AgIAANwAAAAAAAAAAAAgwOcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-04T22:33:17.779Z",
+              "DocumentIndex": 2,
+              "Title": "ColegioEntidades",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioEntidades\\ColegioEntidades.csproj",
+              "RelativeDocumentMoniker": "ColegioEntidades\\ColegioEntidades.csproj",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioEntidades\\ColegioEntidades.csproj",
+              "RelativeToolTip": "ColegioEntidades\\ColegioEntidades.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T12:12:04.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColegioData",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\ColegioData.csproj",
+              "RelativeDocumentMoniker": "ColegioData\\ColegioData.csproj",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\ColegioData.csproj",
+              "RelativeToolTip": "ColegioData\\ColegioData.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T12:11:21.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "RelativeDocumentMoniker": "ColegioWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "RelativeToolTip": "ColegioWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T23:14:05.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ColegioWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ColegioWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T23:13:57.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ColegioWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ColegioWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T23:11:16.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocenteHorario.js",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\DocenteHorario\\DocenteHorario.js",
+              "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\Views\\DocenteHorario\\DocenteHorario.js",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\DocenteHorario\\DocenteHorario.js",
+              "RelativeToolTip": "ColegioWeb\\wwwroot\\Views\\DocenteHorario\\DocenteHorario.js",
+              "ViewState": "AgIAANwAAAAAAAAAAAAgwOcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T22:33:17.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Docente.js",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Docente\\Docente.js",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Docente\\Docente.js",
               "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\Views\\Docente\\Docente.js",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Docente\\Docente.js",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Docente\\Docente.js",
               "RelativeToolTip": "ColegioWeb\\wwwroot\\Views\\Docente\\Docente.js",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAAAMYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAMMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-04T23:00:41.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Dashboard.js",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
               "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
               "RelativeToolTip": "ColegioWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-04T23:00:31.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Curso.js",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Curso\\Curso.js",
-              "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\Views\\Curso\\Curso.js",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Curso\\Curso.js",
-              "RelativeToolTip": "ColegioWeb\\wwwroot\\Views\\Curso\\Curso.js",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAjwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-04T22:59:53.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.js",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
-              "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
-              "RelativeToolTip": "ColegioWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAH4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-04T22:25:47.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T23:00:31.027Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "scripts.js",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\js\\scripts.js",
-              "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\js\\scripts.js",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\wwwroot\\js\\scripts.js",
-              "RelativeToolTip": "ColegioWeb\\wwwroot\\js\\scripts.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Curso.js",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Curso\\Curso.js",
+              "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\Views\\Curso\\Curso.js",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Curso\\Curso.js",
+              "RelativeToolTip": "ColegioWeb\\wwwroot\\Views\\Curso\\Curso.js",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAjwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-04T22:25:32.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T22:59:53.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
+              "Title": "Usuario.js",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+              "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+              "RelativeToolTip": "ColegioWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAH4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T22:25:47.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\js\\scripts.js",
+              "RelativeDocumentMoniker": "ColegioWeb\\wwwroot\\js\\scripts.js",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\wwwroot\\js\\scripts.js",
+              "RelativeToolTip": "ColegioWeb\\wwwroot\\js\\scripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-04T22:25:32.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IUsuarioRepositorio.cs",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioData\\Contrato\\IUsuarioRepositorio.cs",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\Contrato\\IUsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "ColegioData\\Contrato\\IUsuarioRepositorio.cs",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioData\\Contrato\\IUsuarioRepositorio.cs",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\Contrato\\IUsuarioRepositorio.cs",
               "RelativeToolTip": "ColegioData\\Contrato\\IUsuarioRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,24 +252,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "AccesoController.cs",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Controllers\\AccesoController.cs",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Controllers\\AccesoController.cs",
               "RelativeDocumentMoniker": "ColegioWeb\\Controllers\\AccesoController.cs",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Controllers\\AccesoController.cs",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Controllers\\AccesoController.cs",
               "RelativeToolTip": "ColegioWeb\\Controllers\\AccesoController.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAwwEsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:21:45.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T22:21:45.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "ColegioWeb\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioWeb\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "ColegioWeb\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAwwA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioData\\Implementacion\\UsuarioRepositorio.cs",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\Implementacion\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "ColegioData\\Implementacion\\UsuarioRepositorio.cs",
-              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu_V01\\InnovaEdu\\ColegioData\\Implementacion\\UsuarioRepositorio.cs",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\Implementacion\\UsuarioRepositorio.cs",
               "RelativeToolTip": "ColegioData\\Implementacion\\UsuarioRepositorio.cs",
               "ViewState": "AQIAAH0AAAAAAAAAAAAowI8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

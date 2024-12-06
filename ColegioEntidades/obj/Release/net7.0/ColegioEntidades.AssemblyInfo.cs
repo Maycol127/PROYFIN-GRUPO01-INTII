@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColegioEntidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eed4a69a04b22d425ade9277e20049f6796dc1c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColegioEntidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColegioEntidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

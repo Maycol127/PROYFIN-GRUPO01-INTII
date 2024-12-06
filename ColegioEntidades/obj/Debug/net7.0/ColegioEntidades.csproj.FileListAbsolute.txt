@@ -1,7 +1,6 @@
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioEntidades\bin\Debug\net7.0\ColegioEntidades.deps.json
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioEntidades\bin\Debug\net7.0\ColegioEntidades.dll
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioEntidades\bin\Debug\net7.0\ColegioEntidades.pdb
-D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioEntidades\obj\Debug\net7.0\ColegioEntidades.csproj.AssemblyReference.cache
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioEntidades\obj\Debug\net7.0\ColegioEntidades.GeneratedMSBuildEditorConfig.editorconfig
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioEntidades\obj\Debug\net7.0\ColegioEntidades.AssemblyInfoInputs.cache
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioEntidades\obj\Debug\net7.0\ColegioEntidades.AssemblyInfo.cs
@@ -21,3 +20,4 @@ D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioEntidad
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioEntidades\obj\Debug\net7.0\refint\ColegioEntidades.dll
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioEntidades\obj\Debug\net7.0\ColegioEntidades.pdb
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioEntidades\obj\Debug\net7.0\ref\ColegioEntidades.dll
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioEntidades\obj\Debug\net7.0\ColegioEntidades.sourcelink.json

@@ -8,7 +8,6 @@ D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioData.AssemblyInfoInputs.cache
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioData.AssemblyInfo.cs
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioData.csproj.CoreCompileInputs.cache
-D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioData.csproj.CopyComplete
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioData.dll
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\refint\ColegioData.dll
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioData.pdb
@@ -28,3 +27,5 @@ D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioData\ob
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioData\obj\Debug\net7.0\refint\ColegioData.dll
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioData.pdb
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioData\obj\Debug\net7.0\ref\ColegioData.dll
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioData.sourcelink.json
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioData\obj\Debug\net7.0\ColegioD.13A845D4.Up2Date

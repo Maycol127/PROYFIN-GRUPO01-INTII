@@ -44,7 +44,6 @@ D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\scopedcss\bundle\ColegioWeb.styles.css
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\scopedcss\projectbundle\ColegioWeb.bundle.scp.css
-D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\ColegioWeb.csproj.CopyComplete
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\ColegioWeb.dll
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\refint\ColegioWeb.dll
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\ColegioWeb.pdb
@@ -106,3 +105,9 @@ D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioWeb\obj
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioWeb\obj\Debug\net7.0\ColegioWeb.pdb
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioWeb\obj\Debug\net7.0\ColegioWeb.genruntimeconfig.cache
 D:\Program Files\Visual Studio 2022\repos\InnovaEdu_V01\InnovaEdu\ColegioWeb\obj\Debug\net7.0\ref\ColegioWeb.dll
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\bin\Debug\net7.0\ColegioWeb.staticwebassets.endpoints.json
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\ColegioWeb.sourcelink.json
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\staticwebassets\msbuild.ColegioWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\Program Files\Visual Studio 2022\repos\InnovaEdu\ColegioWeb\obj\Debug\net7.0\ColegioWeb.csproj.Up2Date
